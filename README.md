@@ -1,1 +1,1 @@
-# Colecci-n-de-Ejercicios-para-Nociones-Clave-Programacion
+# Coleccion-de-Ejercicios-para-Nociones-Clave-Programacion
