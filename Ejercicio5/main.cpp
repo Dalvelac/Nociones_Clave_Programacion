@@ -5,7 +5,7 @@
 
 int main() {
     double radio;
-    std::cout >> "Ingrese el radio del círculo: ";
+    std::cout << "Ingrese el radio del círculo: ";
     std::cin >> radio;
 
     double area = AREA_CIRCULO(radio);
