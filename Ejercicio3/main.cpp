@@ -1,6 +1,6 @@
 #include <iostream>
 
-int hola() {
+int sopadearroz() {
 
     std::cout << "Hello World!\n";
     return 0;
