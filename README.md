@@ -4,7 +4,7 @@
 
 Enunciado de Ejercicios
 
-    Principales características del lenguaje C++
+    #Principales características del lenguaje C++
         Crea un programa simple que imprima "Hola Mundo" en la consola.
         Haz una función que tome dos números enteros como parámetros y devuelva su suma.
         Utiliza una variable global y muestra su valor dentro y fuera de una función.
