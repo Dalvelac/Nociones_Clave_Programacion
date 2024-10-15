@@ -1,0 +1,9 @@
+C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/CMakeFiles/matematicas.dir
+C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/CMakeFiles/Ejercicio4.dir
+C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/CMakeFiles/Ejercicio1.dir
+C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/CMakeFiles/Ejercicio3.dir
+C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir

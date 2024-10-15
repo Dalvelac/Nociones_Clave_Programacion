@@ -1,0 +1,37 @@
+# ninja log v6
+2	40	7506862140962341	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	360f501bf20dec99
+2	40	7506862140962341	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	360f501bf20dec99
+102	137	7506864439733712	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	536f8973c6cbced2
+41	3609	7506862176652356	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	be5c96a483ec62c1
+2	102	7506864438413703	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	2b4b6a776107b836
+102	137	7506864439733712	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	536f8973c6cbced2
+41	3609	7506862176652356	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	be5c96a483ec62c1
+2	102	7506864438413703	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	2b4b6a776107b836
+282	332	7506864441683818	CMakeFiles/fmt-populate-complete	17affc5ccfca0e9c
+137	173	7506864440093706	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	d85565243764b0a0
+137	173	7506864440093706	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	d85565243764b0a0
+173	211	7506864440463829	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	769c52d956a5f373
+173	211	7506864440463829	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	769c52d956a5f373
+211	245	7506864440813711	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	ef06910e6c2a3cba
+211	245	7506864440813711	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	ef06910e6c2a3cba
+246	282	7506864441173707	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	3dc478a66898914a
+246	282	7506864441173707	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	3dc478a66898914a
+282	332	7506864441683818	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	17affc5ccfca0e9c
+282	332	7506864441683818	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	17affc5ccfca0e9c
+282	332	7506864441683818	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	17affc5ccfca0e9c
+3	111	7506864842143957	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	2b4b6a776107b836
+3	111	7506864842143957	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	2b4b6a776107b836
+111	153	7506864843603946	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	536f8973c6cbced2
+111	153	7506864843603946	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	536f8973c6cbced2
+153	200	7506864844073960	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	d85565243764b0a0
+153	200	7506864844073960	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	d85565243764b0a0
+200	244	7506864844523950	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	769c52d956a5f373
+200	244	7506864844523950	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	769c52d956a5f373
+244	284	7506864844913949	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	ef06910e6c2a3cba
+244	284	7506864844913949	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	ef06910e6c2a3cba
+284	321	7506864845283957	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	3dc478a66898914a
+284	321	7506864845283957	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	3dc478a66898914a
+322	380	7506864845873953	CMakeFiles/fmt-populate-complete	17affc5ccfca0e9c
+322	380	7506864845873953	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	17affc5ccfca0e9c
+322	380	7506864845873953	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	17affc5ccfca0e9c
+322	380	7506864845873953	C:/Users/v3rmu/CLionProjects/Proyecto clase/Nociones_Clave_Programacion/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	17affc5ccfca0e9c
