@@ -4,8 +4,6 @@
 
 ### Enunciado de los ejercicios
 
-Enunciado de Ejercicios
-
     Principales características del lenguaje C++
         Crea un programa simple que imprima "Hola Mundo" en la consola.
         Haz una función que tome dos números enteros como parámetros y devuelva su suma.
