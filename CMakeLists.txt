@@ -11,7 +11,6 @@ add_library(matematicas STATIC ejercicio4/matematicas.cpp
 add_executable(Ejercicio4
 ejercicio4/funciones.cpp
 ejercicio4/matematicas.cpp
-        Ejercicio4/matematicas.cpp
 )
 
 
